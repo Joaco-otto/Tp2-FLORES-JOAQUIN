@@ -1,4 +1,6 @@
 Tp2-FLORES-JOAQUIN
+
+
 "Concesionaria de Autos y Motos"
 Este programa simula el funcionamiento de una consecionaria de autos y motos,
 consta de una clase abstracta llamada "vehiculo" la cual es la base o modelo para
@@ -12,4 +14,6 @@ Clase Moto: Esta clase representa un tipo de vehículo en este caso Moto, con un
 
 Clase test concesionario : Esta clase hace uso de las entidades del proyecto , tiene un metodo "agregaVehiculos que carga una lista de vehiculos
 que vienen de la consigna del Tp2 y otro separador que nos sirve para organizar la salida en la consola , contiene la ejecucion principal del programa(requisitos asignados del tp2).
+
+Autor Joaquin Flores 
 
