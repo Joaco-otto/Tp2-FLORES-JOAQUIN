@@ -6,7 +6,7 @@ Tp2-FLORES-JOAQUIN
 
 Este programa simula el funcionamiento de una concesionaria de autos y motos,
 consta de una clase abstracta llamada "vehiculo" la cual es la base o modelo para
-todos los vheiculos. Define atributos comunes y deja que las clases hijas(Auto y Moto) agreguen 
+todos los vehiculos. Define atributos comunes y deja que las clases hijas(Auto y Moto) agreguen 
 detalles propios.
 En esta clase definimos los metodos para formatear precio , los getters para obtener los valores de los atributos
 y un "compare to" para  comparar dos vehiculos y ordernarlos en una lista.
